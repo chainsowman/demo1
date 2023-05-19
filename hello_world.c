@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("my hobby is play games!\n");
+    printf("i am in branch2nd!\n");
     return 0;
 }
